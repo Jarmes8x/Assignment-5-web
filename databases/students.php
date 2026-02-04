@@ -1,0 +1,6 @@
+<?php
+
+function getStudents()
+{
+    return [];
+}
