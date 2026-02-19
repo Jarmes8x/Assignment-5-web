@@ -1,8 +1,8 @@
 <?php
-$hostname = 'localhost';
-$dbName = 'enrollment';
-$username = 'demo';
-$password = 'abc123';
+$hostname = '';
+$dbName = '';
+$username = '';
+$password = '';
 $conn = new mysqli($hostname, $username, $password, $dbName);
 
 function getConnection(): mysqli
